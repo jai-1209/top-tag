@@ -1,2 +1,3 @@
 *.h5
 *.h5
+particle_net/condor/miniconda_install.sh
