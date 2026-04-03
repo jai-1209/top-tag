@@ -1,0 +1,5 @@
+AUC score: 0.9001913051491519
+ACC score: 0.8143508143508144
+Background rejection at 0.5 signal efficiency: 25.51758691206544
+Background rejection at 0.8 signal efficiency: 5.77716560951896
+

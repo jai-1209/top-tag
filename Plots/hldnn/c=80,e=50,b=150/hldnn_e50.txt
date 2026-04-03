@@ -1,0 +1,4 @@
+AUC: 0.933135624329
+Accuracy at TPR 0.5: 0.738621738622
+Background Rejection at Signal Efficiency 0.5: 45.627936740104
+Background Rejection at Signal Efficiency 0.8: 9.426860823087

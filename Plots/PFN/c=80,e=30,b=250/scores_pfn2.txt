@@ -1,0 +1,6 @@
+Performance metrics evaluated over testing set:
+AUC score: 0.9414866335252855
+ACC score: 0.8658098658098659
+Background rejection at 0.5 signal efficiency: 70.7375283446712
+Background rejection at 0.8 signal efficiency: 11.524185541779225
+
